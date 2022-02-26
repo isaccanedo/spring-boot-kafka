@@ -12,7 +12,7 @@ Podemos usar o Kafka quando temos que mover uma grande quantidade de dados e pro
 Kafka é construído do zero com escala horizontal em mente. Podemos dimensionar adicionando mais agentes ao cluster Kafka existente.
 
 ### Vocabulário Kafka
-Vejamos as principais terminologias de Kafka:
+Vejamos as principais terminologias de Kafka
 
 ```
 - Produtor: Um produtor é um cliente que envia mensagens ao servidor Kafka para o tópico especificado.
